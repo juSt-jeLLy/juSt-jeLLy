@@ -7,7 +7,7 @@
 
 🔭 I'm currently immersing myself in the world of DeFi and discovering the potential of zero-knowledge (zk) technology.
 
-📘 I'm currently deepening my understanding of blockchain concepts.<br>
+
 
 
 
