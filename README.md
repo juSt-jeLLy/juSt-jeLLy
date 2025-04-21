@@ -6,6 +6,8 @@
 📘 Right now, I'm focused on expanding my knowledge of blockchain concepts. <br><br>👨‍💻 Eager to embrace new challenges and opportunities in blockchain and smart contract development <br><br>
 
 🔭 I'm currently immersing myself in the world of DeFi and discovering the potential of zero-knowledge (zk) technology.
+- 🏆 Winner **Agentic Ethereum 2025**
+- 🏆 Winner **ETH Taipei 2025**
 
 
 <h3 align="left">Languages and Tools:</h3>
