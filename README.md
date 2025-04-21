@@ -1,11 +1,17 @@
-<h1 align="center">👨‍💻 Yagnesh Markana 👨‍💻</h1>
-<h3 align="center"> Smart Contract Developer, Blockchain Developer, Full Stack Developer</h3>
+<h1 align="center">xHi 👋, I'm Yagnesh 😎</h1>
+<h3 align="center"> A Web3 & FrontEnd Develper exploring AI Agents and DeFi</h3>
 
 
-# 💫 About Me:
-📘 Right now, I'm focused on expanding my knowledge of blockchain concepts. <br><br>👨‍💻 Eager to embrace new challenges and opportunities in blockchain and smart contract development <br><br>
+## 💫 About Me:
 
-🔭 I'm currently immersing myself in the world of DeFi and discovering the potential of zero-knowledge (zk) technology.
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" style="margin-left: 20px;" />
+
+  
+- 👨‍💻 Open to new Opportunities in Web3 & Smart Contract developement
+  
+- 👯 I'm looking to collaborate on Web3 projects
+  
+- 🌱 I'm currently learning AI Agent frameworks
 - 🏆 Winner **Agentic Ethereum 2025**
 - 🏆 Winner **ETH Taipei 2025**
 
