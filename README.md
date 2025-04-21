@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Yagnesh Markana 👨‍💻</h1>
-<h3 align="center">🚀 Smart Contract Developer</h3>
+<h3 align="center"> Smart Contract Developer, Blockchain Developer, Full Stack Developer</h3>
 
 
 # 💫 About Me:
