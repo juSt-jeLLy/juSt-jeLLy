@@ -8,6 +8,8 @@
 🔭 I'm currently immersing myself in the world of DeFi and discovering the potential of zero-knowledge (zk) technology.
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blockspade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&text_color=FFFFFF)
 
 
 
