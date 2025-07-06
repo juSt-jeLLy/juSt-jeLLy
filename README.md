@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" style="margin-left: 20px;" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400" style="margin-left: 20px;" />
 
   
 - 👨‍💻 Open to new Opportunities in Web3 & Smart Contract developement
