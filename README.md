@@ -1,5 +1,5 @@
 <h1 align="center">xHi 👋, I'm Yagnesh 😎</h1>
-<h3 align="center"> A Web3 & FrontEnd Develper exploring AI Agents and DeFi</h3>
+<h3 align="center"> A Web3 & FullStack Develper exploring AI Agents and DeFi</h3>
 
 
 ## 💫 About Me:
