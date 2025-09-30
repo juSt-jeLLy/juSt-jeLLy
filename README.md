@@ -9,7 +9,7 @@
   
 - 👯 I'm looking to collaborate on Web3 projects
   
-- 🌱 I'm currently learning AI Agent frameworks
+- 🌱 I'm currently learning Core DeFi concepts.
 - 🏆 Winner **ETH Global's Agentic Ethereum 2025**
 - 🏆 Winner **ETH Global's ETH Taipei 2025**
 - 🏆 Winner **ETH Global's ETH New Delhi 2025**
