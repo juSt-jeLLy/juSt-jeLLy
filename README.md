@@ -10,7 +10,7 @@
 - 👯 I'm looking to collaborate on Web3 projects
   
 - 🌱 I'm currently learning Core DeFi concepts.
-- 🏆 4x Hackathon Winner: **Agentic Ethereum '25** • **ETH Taipei** • **ETH New Delhi** • **ETH Online**
+- 🏆 Winner: **Agentic Ethereum '25** • **ETH Taipei** • **ETH New Delhi** • **ETH Online**
 
 
 <h3 align="left">Languages and Tools:</h3>
