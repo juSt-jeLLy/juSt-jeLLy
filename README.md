@@ -10,8 +10,8 @@
 - 👯 I'm looking to collaborate on Web3 projects
   
 - 🌱 I'm currently learning Core DeFi concepts.
-- 🏆 Winner at **ETH Global's Agentic Ethereum 2025**, **ETH Taipei**, **ETH New Delhi**, and **ETH Online**
-
+- 🏆 Winner at **ETH Global's Agentic Ethereum 2025**, **ETH Taipei**, **ETH New Delhi**, **ETH Online**, **Somnia HAckathon**
+ and **Story Protocol Hack**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
