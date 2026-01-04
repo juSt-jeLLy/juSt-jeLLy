@@ -27,7 +27,6 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://netmaxims.com/images/next-js-two.png" alt="nextjs" width="50" height="50" style="margin-right: 5px;"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 5px;"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin-right: 5px;"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/nodejs-icon-2048x2048-rueyo8fw.png" alt="nodejs" width="50" height="50"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="express" width="50" height="50"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin-right: 5px;"/> </a>
