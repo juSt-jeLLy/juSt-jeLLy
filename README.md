@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://x.com/Yagneshh28" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/yagnesh-markana-72aa10204/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -116,9 +116,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=juSt-jeLLy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juSt-jeLLy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=juSt-jeLLy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juSt-jeLLy&icon=0&color=0)](https://visitcount.itsvg.in)
