@@ -24,8 +24,6 @@
 
 ## 💻 Languages and Tools:
 
-## 💻 Languages and Tools:
-
 <p align="left">
   <a href="https://ethereum.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Yk7VOVstP8GaB9vCkJn8JNcHgbvps987wA&s" alt="ethereum" width="40" height="40" /></a>&nbsp;
   <a href="https://ipfs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="ipfs" width="40" height="40" /></a>&nbsp;
